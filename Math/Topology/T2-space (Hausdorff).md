@@ -1,0 +1,1 @@
+*Definiton:* A topological space is called T2

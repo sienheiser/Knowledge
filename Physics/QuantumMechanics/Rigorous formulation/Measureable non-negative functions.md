@@ -1,0 +1,1 @@
+*Definiton*: A measureable non-negative function $f:M\rightarrow \overline{R}$ where $M$ has some [[Sigma algebra|sigma algebra]] and $\overline{R}$ has sigma algebra $\overline{\sigma} = \{A\subseteq\overline{\mathbb{R}}|A\cap\mathbb{R}\in\sigma(\mathcal{O}_{\text{standard}})\}$ where $\overline{\mathbb{R}}$ includes $\infty$ and $-\infty$.

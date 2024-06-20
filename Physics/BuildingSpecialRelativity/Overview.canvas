@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"type":"file","file":"Physics/BuildingSpecialRelativity/PrincipalGBundleExample/Making a Bundle.md","id":"21ef537d4cdf31e4","x":-701,"y":-641,"width":400,"height":400},
+		{"type":"file","file":"Physics/BuildingSpecialRelativity/PrincipalGBundleExample/Making a Fibre Bundle.md","id":"3ed129ea68fce97c","x":-701,"y":-36,"width":400,"height":400},
+		{"type":"file","file":"Physics/BuildingSpecialRelativity/PrincipalGBundleExample/Making a Principal Bundle.md","id":"d154871430ebc774","x":-701,"y":593,"width":400,"height":400},
+		{"type":"file","file":"Physics/BuildingSpecialRelativity/ConnectionExample/Defining a Connection.md","id":"1eaaead57dba90f1","x":-1404,"y":-36,"width":400,"height":400},
+		{"id":"0a34b315031c93af","x":-1460,"y":593,"width":513,"height":567,"type":"file","file":"Physics/BuildingSpecialRelativity/ConnectionOneForm/Constructing a connection one form.md"},
+		{"type":"file","file":"Physics/BuildingSpecialRelativity/ConnectionExample/Ehresmann Connection.md","id":"a735be5a83f8cbd6","x":-2360,"y":-36,"width":400,"height":356},
+		{"id":"2dfbcbac8566d637","x":-2360,"y":593,"width":400,"height":400,"type":"file","file":"Physics/BuildingSpecialRelativity/ConnectionOneForm/Connection One form.md"}
+	],
+	"edges":[
+		{"id":"8025a3306aeabc17","fromNode":"21ef537d4cdf31e4","fromSide":"bottom","toNode":"3ed129ea68fce97c","toSide":"top"},
+		{"id":"d659c46980abf158","fromNode":"3ed129ea68fce97c","fromSide":"bottom","toNode":"d154871430ebc774","toSide":"top"},
+		{"id":"be3754eb7ec06d89","fromNode":"3ed129ea68fce97c","fromSide":"left","toNode":"1eaaead57dba90f1","toSide":"right","label":"defined following\nconnection"},
+		{"id":"965b4a83843512f1","fromNode":"d154871430ebc774","fromSide":"left","toNode":"0a34b315031c93af","toSide":"right"},
+		{"id":"a95c6380fc984ccb","fromNode":"1eaaead57dba90f1","fromSide":"bottom","toNode":"0a34b315031c93af","toSide":"top"},
+		{"id":"7916dcfa6494b3d1","fromNode":"a735be5a83f8cbd6","fromSide":"right","toNode":"1eaaead57dba90f1","toSide":"left","label":"example"},
+		{"id":"c068454871217e47","fromNode":"2dfbcbac8566d637","fromSide":"right","toNode":"0a34b315031c93af","toSide":"left","label":"example"}
+	]
+}

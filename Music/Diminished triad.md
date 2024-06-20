@@ -1,0 +1,1 @@
+*Definiton:* A diminished triand consists of a [[major and minor third|minor third]] and [[Dimished fifth|diminished fifth]]. 

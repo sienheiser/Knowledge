@@ -1,0 +1,2 @@
+#DifferentialGeometry
+The manifold is the real object that lives in reality. We represent the manifold as a collections of charts. In the definition on of [[Topological Manifold|topological manifold]] we see that we define a set $M$ with a topology. Then we add the extra condition that for every point on a manifold there exits an open set $U$ in the topology that contains a point and a chart $x$ that takes open set $U$ and maps it to $\mathbb{R}^d$ equipped with open standard topology.

@@ -1,0 +1,1 @@
+$|\langle\phi,\psi\rangle|\leq ||\phi||\cdot||\psi||$

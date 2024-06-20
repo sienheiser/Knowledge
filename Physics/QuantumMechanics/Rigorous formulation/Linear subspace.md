@@ -1,0 +1,1 @@
+A linear subspace $M\subseteq \mathit{H}$ has the property $\forall m_1,m_2\quad ,\lambda\in\mathbb{C}:m_1+m_2\in M$

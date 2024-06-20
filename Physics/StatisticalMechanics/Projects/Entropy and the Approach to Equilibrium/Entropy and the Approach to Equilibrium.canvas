@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4bc43f3a6a2ba3ca","x":-125,"y":280,"width":250,"height":143,"type":"text","text":"Simulate or analytically study how the system evolves over time."},
+		{"id":"2a82c84c6ea50c74","x":-125,"y":-220,"width":250,"height":120,"type":"text","text":"What is entropy? How is entropy defined in statistical mechanics?\n"},
+		{"id":"22ffed324656a430","x":-125,"y":560,"width":250,"height":140,"type":"text","text":"Observe how entropy increases as the system approaches"},
+		{"id":"16bc18b611428aa7","x":-125,"y":20,"width":250,"height":130,"type":"text","text":"Consider simple systems, like a set of coins or two-box gas model."}
+	],
+	"edges":[]
+}

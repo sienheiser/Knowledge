@@ -1,0 +1,1 @@
+A Hilbert space is a [[Banach space]] that has a [[Sesqui-linear map|sesquilinear inner product]] from which a norm can be constructed. Therefore $(\mathit{H},\cdot,+,\langle\cdot,\cdot\rangle)$.

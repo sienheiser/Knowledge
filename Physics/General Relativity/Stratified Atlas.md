@@ -1,0 +1,1 @@
+A stratified atlast can be defined for Newtonian spacetime. It is defined as follows: $x^0:U\rightarrow \mathbb{R}$ where $x^0 = t|_t$ and the other coordiantes can be anything else. The important thing is that $x^0 = t|_t$.

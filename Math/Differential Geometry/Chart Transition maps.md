@@ -1,0 +1,2 @@
+#DifferentialGeometry
+Suppose we have two charts $(U,x)$ and $(V,y)$ with overlapping reigon, that is , $U\cap V \neq \emptyset$. Then we may take a point $p$ that belongs to $U$ and $V$ and map it using the two charts so we get $x:U\rightarrow \mathbb{R}^d \implies x(p)$, similarly, $y:V\rightarrow \mathbb{R}^d \implies y(p)$. Then a chart transition from $x$ to $y$ is defined to be $y\circ x^{-1}$. 

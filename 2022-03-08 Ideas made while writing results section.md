@@ -1,0 +1,8 @@
+1. Look at how emitted jet population varies through time with time independent integral i.e. $$\int_{r_0}^{r_1}n(r)rdr$$ where $r_0 = 1.5$ and $r_0 = 1.5$.
+2. Need to write a method for integration
+3. Describe the dimensionless scheme
+4. Try making a rate of emission over angle plot. Try doing taking difference between two consecutive emitted jet population in time and dividing time intervel. Then take average over 5 ms. The rate of emission over angle might help with describing the asymmetry factor. If the average rate of emission is reducing over time and our asymmetry factor is also reducing this means that the wave nodes are spreading out more.
+5. Why are specific angles continued to be prefered even though we continue to periodically drive the system. Why do they not change? 
+	1. Analogy: Imagine weak container with gas inside. If we heat the gas pressure builds up. If material if weak then it may break. If material is spherical then it should break symmetrically and gas escapes symmetrically. If container is anti symmetric gas might escape through one point only. This is the prefered direction.
+	2. This leads to the idea of looking at a potential that is circular but its height is not constant. Important we do not place random terms into the wave function.
+6. Try building a model with the connection between occupation of momentum nodes and how particles are emitted in real space. Remember try with 1D BEC and take the simples possible case. 

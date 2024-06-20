@@ -1,0 +1,1 @@
+*Definition:* A [[Axioms|topological space]] $(X,\tau)$ is said to be a $T_1-$space if every singleton set $\{x\}$ is a [[Open and Closed sets|closed set]] in $(X,\tau)$.

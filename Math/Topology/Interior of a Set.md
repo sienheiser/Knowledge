@@ -1,0 +1,1 @@
+*Definiton:* Let $(X,\tau)$ be any topological space and $A$ any subset of $X$. The largest [[Open and Closed sets|open set]] contained in $A$ is called the **interior of** $A$ and is denoted by $\text{Int}(A)$. \[It is the union of all open sets in $X$ which lie wholly in $A$\].

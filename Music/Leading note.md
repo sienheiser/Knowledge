@@ -1,0 +1,1 @@
+*Definition:* The 7th degree of a scale is known as the **leading note**.

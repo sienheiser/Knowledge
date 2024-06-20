@@ -1,0 +1,2 @@
+#GroupTheory
+Let $G$ be a group with finite number of elements. We take an element $g$ and keep multiplying $g$ by itself as long as we do not encounter the identity element. Since the group is finite there will be a $k$ where $g^k = I$. The set $\{I,g,g^2,g^3,....,g^{k-1}\}$ is known as a ***cyclic subgroup*** denoted as $Z_k$.

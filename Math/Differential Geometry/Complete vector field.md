@@ -1,0 +1,1 @@
+*Definition:* A vector field $X$ is said to be complete if all integral curves have $I=\mathbb{R}$
