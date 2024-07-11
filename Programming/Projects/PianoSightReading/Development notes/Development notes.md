@@ -28,3 +28,4 @@ Today I will continue trying to make the note algebra work.
 So far I think I have a working system. Now I want to create the display for displaying notes. I have not done it yet so I should try working on it tomorrow.
 
 Next thing to understand is the following what scheme should I use for representing a keyboard. Right now I am using numbers 1,2,3 to represent keys on a keyboard. Keyboards of different sizes will always have their left most key labelled number 1. This means for different keysboards 1 will mean different things. Maybe I should look at how a piano is tuned and make an absolute base. 
+
