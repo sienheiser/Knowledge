@@ -1,0 +1,1 @@
+Today I will try abstracting a MajorChord and MinorChord class into one Triad class. Alright so I created a Chord class that can construct any chord as long you give it a root note and a list of semitones from the root note that the subsequent chord keys must have. 
