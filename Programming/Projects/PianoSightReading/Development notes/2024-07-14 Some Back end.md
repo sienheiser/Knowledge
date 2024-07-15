@@ -6,3 +6,4 @@ What have I done today?
 3. Created function to update the lesson table.
 
 I still feel that the way the code is arranged is sketchy. I guess it is because I have a lot of things going on in the main.py. I will try refactoring the code
+
