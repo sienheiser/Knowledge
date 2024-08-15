@@ -1,5 +1,4 @@
-Det var eng gang på en vacker solig dag, det fanns en lite flicka hette Röd Luvan. Hon lekte utomhus i sin gården. 
-Hon kallades Rödluvan eftersom hon hade en röd luva på sig vart hon än gick vill.
+Det var en gång, en vacker solig dag, en lite flicka som hette Rödluvan. Hon lekte utomhus på sin trädgården. Hon kallades Rödluvan eftersom hon hade en röd luva på sig vart hon än gick.
 
 När hon lekte på sin bästa ropade hennes moder "Lite rödluva skulle du gå till mormor med den här korgen med mat? Mormor är sjuk i sin säng."
 "Ja, det gör jag gärna mamma" sa Rödluva. "Men går inte genom skogen och prata inte med främligar" sa hennes mamma till henne. 
