@@ -1,7 +1,6 @@
 Det var en gång, en vacker solig dag, en lite flicka som hette Rödluvan. Hon lekte utomhus på sin trädgården. Hon kallades Rödluvan eftersom hon hade en röd luva på sig vart hon än gick.
 
-När hon lekte på sin bästa ropade hennes moder "Lite rödluva skulle du gå till mormor med den här korgen med mat? Mormor är sjuk i sin säng."
-"Ja, det gör jag gärna mamma" sa Rödluva. "Men går inte genom skogen och prata inte med främligar" sa hennes mamma till henne. 
+Just när hon lekte sin bästa hennes moder ropade "Rödluvan, skulle du gå till mormors med den här korgen med mat? Mormor ligger sjuk i sin säng." "Ja, det gör jag gärna." sa Rödluvan. "Men gå inte genom skogen och prata inte med främlingor" sa hennes moder till henne. Rödluvan ... i sin röd luva och började hennes ... till sin mormors hust Rödluvan skuttade iväg i sin röd luva och började sin resa till sin mormors hus.
 
 Det var en sannerligen dag och på vägen stoppade Röd luva för att plocka (något) blommor i ___ och lyssna på fåglarna. När hon nådde till kant av skogen blev det mörk och Röd luva bästamde sig att gå på en genväg genom skogen så skulle hon inte vara sent till mormors hus. Röd luva började att gå på vägen genom skogen och när hon går längt in, träden blev större och större och det blev mörkare och mörkare. Hon hörde lov prassla bredvid henne och plötslig en stor varg  med en lång och akut nas hoppade fråm bakom en buske ut.
 

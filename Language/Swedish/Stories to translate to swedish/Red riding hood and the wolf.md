@@ -1,7 +1,7 @@
 ## English
 Once upon a time, on a beautiful sunny day, there was a little girl named Little Red Riding Hood. She was playing outside in her garden. She was called Red Riding Hood because she wore a red riding hood wherever she went.
 
-Just when she was playing at her best, her mother called out, "Little Red Riding Hood, would you please go to Grandma's with this basket of food? Grandma is sick in her bed." "Yes, I'm happy to do so, mother," said Little Red Riding Hood. "But don't walk through the woods and don't talk to strangers," her mother told her. So Little Red Riding Hood scurried off in her red riding hood and began her journey to her grandmother's house.
+Just when she was playing at her best, her mother called out, "Little Red Riding Hood, would you please go to Grandma's with this basket of food? Grandma is sick in her bed." "Yes, I'm happy to do so, mother," said Little Red Riding Hood. "But don't walk through the woods and don't talk to strangers," said her mother to her. So Little Red Riding Hood scurried off in her red riding hood and began her journey to her grandmother's house.
 
 It was indeed a beautiful day and on the way Little Red Riding Hood stopped to pick some flowers in a clearing and listen to the birds. So when she finally got to the edge of the forest, it was already getting dark and Little Red Riding Hood decided to take a shortcut through the forest so she wouldn't be late to grandma's house. Little Red Riding Hood started walking on the path through the forest and as she got further in, the trees got bigger and bigger and it got darker and darker. She heard leaves rustle beside her and suddenly a large wolf, with a long and pointed snout, jumped out from behind a bush.
 
