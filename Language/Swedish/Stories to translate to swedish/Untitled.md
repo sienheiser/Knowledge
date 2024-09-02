@@ -8,6 +8,7 @@ Han hälsade på Rödluvan som vanlight och frågade henne vart hon skulle. "Hal
 
 Rödluvan log och snabbt gick bort. Vargen titade henne försvinna ner värgen och sa till sig själv "Jag har en listig plan och jag måste vara snabb för jag nådde till mormors hus så snart som möjligt." Sen vargen springer in i skogen i en väldig fart.
 
+En liten stund senare kom vargen till mormors hus. Han smog up till stugen dorren och knackade tree gånger. Inifrån hördes mormors röst, "Vem är det som knackar på min dorr?" Vargen förställde sin röst och ropade tillbaks, "det är bara jag, Rödluvan, som kommit för att besoka dig mormor." "Nå, oppna låset och kom in kära du", svarade mormor.
 
 
 
