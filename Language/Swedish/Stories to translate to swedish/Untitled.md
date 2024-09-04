@@ -8,35 +8,10 @@ Han hälsade på Rödluvan som vanlight och frågade henne vart hon skulle. "Hal
 
 Rödluvan log och snabbt gick bort. Vargen titade henne försvinna ner värgen och sa till sig själv "Jag har en listig plan och jag måste vara snabb för jag nådde till mormors hus så snart som möjligt." Sen vargen springer in i skogen i en väldig fart.
 
-En liten stund senare kom vargen till mormors hus. Han smog up till stugen dorren och knackade tree gånger. Inifrån hördes mormors röst, "Vem är det som knackar på min dorr?" Vargen förställde sin röst och ropade tillbaks, "det är bara jag, Rödluvan, som kommit för att besoka dig mormor." "Nå, oppna låset och kom in kära du", svarade mormor.
+En liten stund senare kom vargen till mormors hus. Han smog up till stugans dorren och knackade tree gånger. Inifrån hördes mormors röst, "Vem är det som knackar på min dorr?" Vargen förställde sin röst och ropade tillbaks, "det är bara jag, Rödluvan, som kommit för att besoka dig mormor." "Nå, oppna låset och kom in kära du", svarade mormor.
 
-Så snart som sag mormor som det var vargen, hoppade hon ut av sangen och provade att rymma.
+Så snart mormor såg att det var vargen hoppade hon ur av sängen och försökte rymma. Han jagade henne runt rummet. När hon skyndade sig att rymma, tappade hon sin nattmössa på golvet men hon lyckades gömma sig i linneskåpet. Med bara en liten stund tillgodo innan Rödluvan kom fram till  mormors stuga så tog vargen snabbt på sig mormors nättmössa och kröp ner i mormors säng.
 
-Så snart mormor såg att det var vargen hoppade hon ur sängen och försökte rymma. Han jagade henne runt rummet och när hon skyndade sig att rymma, tappade hon sin nattmössa på grunden men kunde gömma in i garderob. Han jagade henne runt rummet. När hon skyndade sig att rymma, tappade hon sin nattmössa på golvet men hon lyckades gömma sig i garderoben. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Rödluvan anlände till mormors hus och knackade på dörren. En röst sa, "Rödluvan är det du? Kom in, kära." Så, hon oppnade dorren och gick in. Mormor låg i sängen men när Rödluvan närmade sig henne kunde hon se att hon verkligen var sjuk. Hon titadde närmare. Någonting stämde inte. "Mormor, vad stora öron du har " sa Rödluvan. "Det är för att jag ska kunna höra dig bättre," sa vargen. "Men mormor, vad stora ögon du har." "Den är för att jag ska kunna se dig bättre" sa vargen. "Men mormor, vad stor mun du har." "Det är för att  jag ska kunna äta dig" sa vargen, hoppde ut ur sängen och jagade Rödluvan runt rummet.
 
 
