@@ -10,5 +10,33 @@ Rödluvan log och snabbt gick bort. Vargen titade henne försvinna ner värgen o
 
 En liten stund senare kom vargen till mormors hus. Han smog up till stugen dorren och knackade tree gånger. Inifrån hördes mormors röst, "Vem är det som knackar på min dorr?" Vargen förställde sin röst och ropade tillbaks, "det är bara jag, Rödluvan, som kommit för att besoka dig mormor." "Nå, oppna låset och kom in kära du", svarade mormor.
 
+Så snart som sag mormor som det var vargen, hoppade hon ut av sangen och provade att rymma.
+
+Så snart mormor såg att det var vargen hoppade hon ur sängen och försökte rymma. Han jagade henne runt rummet och när hon skyndade sig att rymma, tappade hon sin nattmössa på grunden men kunde gömma in i garderob. Han jagade henne runt rummet. När hon skyndade sig att rymma, tappade hon sin nattmössa på golvet men hon lyckades gömma sig i garderoben. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
