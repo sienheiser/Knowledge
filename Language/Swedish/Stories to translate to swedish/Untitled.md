@@ -12,6 +12,9 @@ En liten stund senare kom vargen till mormors hus. Han smog up till stugans dorr
 
 Så snart mormor såg att det var vargen hoppade hon ur av sängen och försökte rymma. Han jagade henne runt rummet. När hon skyndade sig att rymma, tappade hon sin nattmössa på golvet men hon lyckades gömma sig i linneskåpet. Med bara en liten stund tillgodo innan Rödluvan kom fram till  mormors stuga så tog vargen snabbt på sig mormors nättmössa och kröp ner i mormors säng.
 
-Rödluvan anlände till mormors hus och knackade på dörren. En röst sa, "Rödluvan är det du? Kom in, kära." Så, hon oppnade dorren och gick in. Mormor låg i sängen men när Rödluvan närmade sig henne kunde hon se att hon verkligen var sjuk. Hon titadde närmare. Någonting stämde inte. "Mormor, vad stora öron du har " sa Rödluvan. "Det är för att jag ska kunna höra dig bättre," sa vargen. "Men mormor, vad stora ögon du har." "Den är för att jag ska kunna se dig bättre" sa vargen. "Men mormor, vad stor mun du har." "Det är för att  jag ska kunna äta dig" sa vargen, hoppde ut ur sängen och jagade Rödluvan runt rummet.
+Så småningom kom Rödluvan till mormors hus och knackade på dörren. En röst sa, "Rödluvan är det du? Kom in, kära." Så, hon oppnade dorren och gick in. Mormor låg i sängen men när Rödluvan närmade sig henne kunde hon se att hon verkligen var sjuk. Hon titadde närmare. Någonting stämde inte. "Mormor, vad stora öron du har " sa Rödluvan. "Det är för att jag ska kunna höra dig bättre," sa vargen. "Men mormor, vad stora ögon du har." "Den är för att jag ska kunna se dig bättre" sa vargen. "Men mormor, vad stor mun du har." "Det är för att  jag ska kunna äta dig" sa vargen, hoppde upp ur sängen och jagade Rödluvan runt rummet.
 
+Nära mormors stuga en skogshuggare skärade ved. Han hörde Rödluvan skrika och sprang för att rädda henne. Han jagade iväg bort med sin yxa och vargen syntes aldrig mera till. 
+
+Rödluvan var säker men plötsligt  tänkte hon på sin mormor. "Var är mormor" hon skrek. Hon sprang till stugan och där hon hittade mormor gömma sig i linneskåpet, trygg och frisk. Aldrig mer störde vargen dem och de levde lyckliga i alla sina dagar.
 
