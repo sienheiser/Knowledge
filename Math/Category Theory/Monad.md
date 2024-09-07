@@ -1,4 +1,4 @@
-	Let $C$ be a category. Then the triple $(T,\eta,\mu)$ where $T:C\rightarrow C$ is an endofunctor, $\eta: Id \rightarrow T$ is a natural transformation and $\mu: T\circ T\rightarrow T$ is a natural transformation. The $id$ is a identity functor. So $\eta$ take $id$ to $T$. The tripe above is called a monad if the following conditions are satisfied
+Let $C$ be a category. Then the triple $(T,\eta,\mu)$ where $T:C\rightarrow C$ is an endofunctor, $\eta: Id \rightarrow T$ is a natural transformation and $\mu: T\circ T\rightarrow T$ is a natural transformation. The $id$ is a identity functor. So $\eta$ take $id$ to $T$. The tripe above is called a monad if the following conditions are satisfied
 
 1) $\mu\circ T\mu = \mu \circ \mu T$
 2) $\mu \circ T\eta = \mu\circ \eta T = 1_T$
