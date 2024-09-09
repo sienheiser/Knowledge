@@ -1,20 +1,3 @@
-Det var en gång, en vacker solig dag, en lite flicka som hette Rödluvan. Hon lekte utomhus på sin trädgården. Hon kallades Rödluvan eftersom hon hade en röd luva på sig vart hon än gick.
+Det var en gång, en vacker solig dag, en liten flicka som hette Rödluvan. Hon lekte utomhus i sin trädgård. Hon kollades Rödluvan för hon hade en röd luva på sig vart hon än gick.
 
-Just när hon lekte sin bästa hennes moder ropade "Rödluvan, skulle du gå till mormors med den här korgen med mat? Mormor ligger sjuk i sin säng." "Ja, det gör jag gärna." sa Rödluvan. "Men gå inte genom skogen och prata inte med främlingor" sa hennes moder till henne. Rödluvan skuttade iväg i sin röd luva och började  sin resa till sin mormors hus.
-
-Det var sannerligen en vacker dag och på vägen stannade Rödluvan för att plocka blommor från en glänta och lyssna till fåglarna som sjöng. Så när hon till slut nådde skogskanten, hade det redan blivit mörkt och Rödluvan bestämde sig att ta en genväg genom skogen så att hon skulle inte komma för sent till mormors hus. Rödluvan började gå på vägen, när hon kom längre in blev träden större och större och det blev mörkare och mörkare. Hon hörde löv prassla bredvid henne och plötslig hoppade en stor varg, med en lång och spetsig nås, ut fram från bakom en buske.
-
-Han hälsade på Rödluvan som vanlight och frågade henne vart hon skulle. "Halo lila flicka," sa vargen. "Vad hetter du?" Fastän hennes moder hade berättat henne att inte prata med främligar svarade hon honom som vanligt. "Alla kallar mig Rödluvan". "Så, Rödluvan, vart skulle du på en vacker dag som denna?" frågade vargen. "Jag är på vag till min mormors hus på andra sidan av skogen. Hon känner inte bra and jag har en krogen med mat med mig." svarade Rödluvan. "Mmm, maten i krogen titta valdigt bra. Sen du skynder dig, borde du inte låta mormor vänta på dig." sa vargen med busig i sin ögon.
-
-Rödluvan log och snabbt gick bort. Vargen titade henne försvinna ner värgen och sa till sig själv "Jag har en listig plan och jag måste vara snabb för jag nådde till mormors hus så snart som möjligt." Sen vargen springer in i skogen i en väldig fart.
-
-En liten stund senare kom vargen till mormors hus. Han smog up till stugans dorren och knackade tree gånger. Inifrån hördes mormors röst, "Vem är det som knackar på min dorr?" Vargen förställde sin röst och ropade tillbaks, "det är bara jag, Rödluvan, som kommit för att besoka dig mormor." "Nå, oppna låset och kom in kära du", svarade mormor.
-
-Så snart mormor såg att det var vargen hoppade hon ur av sängen och försökte rymma. Han jagade henne runt rummet. När hon skyndade sig att rymma, tappade hon sin nattmössa på golvet men hon lyckades gömma sig i linneskåpet. Med bara en liten stund tillgodo innan Rödluvan kom fram till  mormors stuga så tog vargen snabbt på sig mormors nättmössa och kröp ner i mormors säng.
-
-Så småningom kom Rödluvan till mormors hus och knackade på dörren. En röst sa, "Rödluvan är det du? Kom in, kära." Så, hon oppnade dorren och gick in. Mormor låg i sängen men när Rödluvan närmade sig henne kunde hon se att hon verkligen var sjuk. Hon titadde närmare. Någonting stämde inte. "Mormor, vad stora öron du har " sa Rödluvan. "Det är för att jag ska kunna höra dig bättre," sa vargen. "Men mormor, vad stora ögon du har." "Den är för att jag ska kunna se dig bättre" sa vargen. "Men mormor, vad stor mun du har." "Det är för att  jag ska kunna äta dig" sa vargen, hoppde upp ur sängen och jagade Rödluvan runt rummet.
-
-Nära mormors stuga en skogshuggare skärade ved. Han hörde Rödluvan skrika och sprang för att rädda henne. Han jagade iväg bort med sin yxa och vargen syntes aldrig mera till. 
-
-Rödluvan var säker men plötsligt  tänkte hon på sin mormor. "Var är mormor" hon skrek. Hon sprang till stugan och där hon hittade mormor gömma sig i linneskåpet, trygg och frisk. Aldrig mer störde vargen dem och de levde lyckliga i alla sina dagar.
-
+Just när hon lekte som bäst så ropade hennes moder, "Rödluvan, kan du vara snäll och gå till mormors med den har krogen med mat? Mormor ligger sjuk i sin säng." "Ja, det gör jag gärna mama," sa Rödluvan. "Men gå inte genom skogen and prata inte med främlingar," sa  hennes moder till henne. Så Rödluvan skuttade ivag i sin röd luva och började sin resa till mormos hus.
