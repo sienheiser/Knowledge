@@ -1,3 +1,5 @@
 Det var en gång, en vacker solig dag, en liten flicka som hette Rödluvan. Hon lekte utomhus i sin trädgård. Hon kollades Rödluvan för hon hade en röd luva på sig vart hon än gick.
 
 Just när hon lekte som bäst så ropade hennes moder, "Rödluvan, kan du vara snäll och gå till mormors med den har krogen med mat? Mormor ligger sjuk i sin säng." "Ja, det gör jag gärna mama," sa Rödluvan. "Men gå inte genom skogen and prata inte med främlingar," sa  hennes moder till henne. Så Rödluvan skuttade ivag i sin röd luva och började sin resa till mormos hus.
+
+Det var sannerligen en vacker dag och på vägen stannade Rödluvan för att plocka några blommor i en glänta och lyssna på fåglarna. Så när hon äntligen nådde till slutet av skogen hade det blev mörk och Rödluvan bästamde sig att ta en genvag genom skogen så hon ska inte vara försent till mormors hus. Rödluvan började att gå på vägen genom skogen och när hon gick längre in blev träden större och större och det blev mörkare och mörkare. Hon hörde lov prässla bredvid henne och plötsligt hoppade en stor varg, med en lång och spetsig når, ut från bakom en buske., ut från bakom en buske.
