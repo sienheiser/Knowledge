@@ -32,10 +32,11 @@ Now that we have defined charts for our circle, let us do some algebra. We start
 $$
 (\chi_{\text{l}}\circ\gamma)'(\alpha)=-\frac{1}{\cos(\alpha)-1}.
 $$
-We had derived the following expression for an arbitrary smooth function which represented by $\_$  and an arbitrary chart $x$.
+We had derived the following expression for the derivative on a manifold
 $$
 (\_\circ\gamma)'(\alpha) = (x\circ \gamma)i'(\alpha)\cdot \big(\frac{\partial}{\partial x^i}\big )_{\gamma(\alpha)} \_.
 $$
+where $\_$ represents an arbitrary smooth function and $x$ is an arbitrary chart.
 If we use our left chart we get
 $$
 (\_\circ\gamma)'(\alpha) = (\chi_{\text{l}}\circ \gamma)'(\alpha)\cdot \big(\frac{\partial}{\partial \chi_{\text{l}}}\big )_{\gamma(\alpha)} \_.
@@ -45,6 +46,6 @@ $$
 (\_\circ\gamma)'(\alpha) = -\frac{1}{\cos(\alpha)-1}\cdot \big(\frac{\partial}{\partial \chi_{\text{l}}}\big )_{\gamma(\alpha)} \_.
 $$
 Let try to understand what this means. The $$-\frac{1}{\cos\alpha-1}$$ is just a scalar quantity it depends on the choice of curve $\gamma$ and chart. What about the term $$\frac{\partial}{\partial\chi_{\text{l}}}$$
-This term just depends on the chart we choose. 
+This term just depends on the chart we choose. The interpretation we can is that it is the following vector on the chart space. We can move move around the circle and we will have the following basis vector at each point of the chart. If we go back and take into account the scalar term we get the following behaviour.  
 
 
