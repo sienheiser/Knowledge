@@ -46,6 +46,6 @@ $$
 (\_\circ\gamma)'(\alpha) = -\frac{1}{\cos(\alpha)-1}\cdot \big(\frac{\partial}{\partial \chi_{\text{l}}}\big )_{\gamma(\alpha)} \_.
 $$
 Let try to understand what this means. The $$-\frac{1}{\cos\alpha-1}$$ is just a scalar quantity it depends on the choice of curve $\gamma$ and chart. What about the term $$\frac{\partial}{\partial\chi_{\text{l}}}$$
-This term just depends on the chart we choose. The interpretation we can is that it is the following vector on the chart space. We can move move around the circle and we will have the following basis vector at each point of the chart. If we go back and take into account the scalar term we get the following behaviour.  
+This term just depends on the chart we choose. Let us try to understand what this equation is telling us.
 
 
