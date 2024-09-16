@@ -4,11 +4,15 @@ Once upon a time many many thousands of years ago, there was a horrible old spoo
 
 Men det hade Pomperipossa råd till, för hon var **rysligt** **rik**. Hon bodde ensam i ett litet hus i skogen, och det huset var byggt **utav** korv och skinkor, och i stället för **tegelstenar** var där stora stycken **sirapsknäck**. Så **rik** var Pomperipossa.
 
-But it was something Pomperipossa bared with because she was terrible rich. She lived alone in a little house in the woods and the house was built out of sausages and ham, and instead of bricks there were big pieces of hard candy. That is how rich Pomperipossa was.
+But it was something Pomperipossa bared with because she was terribly rich. She lived alone in a little house in the woods and the house was built out of sausages and ham, and instead of bricks there were big pieces of hard candy. That is how rich Pomperipossa was.
 
-Men ingen enda människa vågade sig till henne och knappt något troll heller, ty hon var så förskräckligt elak. Om det kom någon till henne, förtrollade hon honom ögonblickligen till ett bord eller en kittel eller en griffel eller någonting annat. Hon var en mycket farlig trollpacka. Hennes största sorg var den, att hennes näsa blev längre och längre för varje gång hon förtrollade någon. Det var hennes straff!
+Men **ingen** **enda** **människa** **vågade** sig till henne och **knappt** något **troll** **heller**, **ty** hon var så **förskräckligt** **elak**. Om det kom någon till henne, **förtrollade** hon honom **ögonblickligen** till ett bord eller en kittel eller en griffel eller någonting annat. Hon var en mycket **farlig** **trollpacka**. Hennes största **sorg** var den, att hennes näsa blev längre och längre för varje gång hon **förtrollade** någon. Det var hennes **straff**!
+
+But not a single person dared to approach her and barely any trolls either, as she was so terribly mean. If someone came to her, she instantly enchanted him to a table or a cauldron or a griffel or anything else. She was a very dangerous witch. Her biggest sorrow was that her nose became longer and longer every time she enchanted someone. That was her punishment.
 
 Så var där också en kung i det landet, där Pomperipossa bodde, och han hade en liten prins, som hette Pipi, och en liten prinsessa, som hette Fifi. De gingo en vacker dag och promenerade i parken, ledsagade av en hovmarskalk, som var så fin, att han endast kunde svara »A!» eller »Ha!» till allt, som man sade till honom.
+
+So there was also a king in the country, where Pomperipossa lived and he had a little prince called Pipi and a litter princess called Fifi. They 
 
 — Jag vill gå ut i skogen! sade prins Pipi.
 
