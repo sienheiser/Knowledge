@@ -27,3 +27,25 @@ We start by drawing a line from point $(1.0,0.0)$ to an arbitrary point $(x,y)$.
 
 We can also compute the inverses of these functions they are the following. To derive these expressions you need to use both the charts and the fact that we only input points from a circle.
 
+## Equations
+Now that we have defined charts for our circle, let us do some algebra. We start be defining our curve to be $$\gamma(\alpha)=(\cos\alpha,\sin\alpha).$$So this curve just goes around the circle. Next we apply the left chart onto this curve which gives us $$\chi_{\text{l}}\circ\gamma(\alpha) = \frac{\sin\alpha}{\cos\alpha - 1}.$$ Next we take the derivative of the above which gives us
+$$
+(\chi_{\text{l}}\circ\gamma)'(\alpha)=-\frac{1}{\cos(\alpha)-1}.
+$$
+We had derived the following expression for the derivative on a manifold
+$$
+(\_\circ\gamma)'(\alpha) = (x\circ \gamma)i'(\alpha)\cdot \big(\frac{\partial}{\partial x^i}\big )_{\gamma(\alpha)} \_.
+$$
+where $\_$ represents an arbitrary smooth function and $x$ is an arbitrary chart.
+If we use our left chart we get
+$$
+(\_\circ\gamma)'(\alpha) = (\chi_{\text{l}}\circ \gamma)'(\alpha)\cdot \big(\frac{\partial}{\partial \chi_{\text{l}}}\big )_{\gamma(\alpha)} \_.
+$$
+We can then substitute the derivative to get the following
+$$
+(\_\circ\gamma)'(\alpha) = -\frac{1}{\cos(\alpha)-1}\cdot \big(\frac{\partial}{\partial \chi_{\text{l}}}\big )_{\gamma(\alpha)} \_.
+$$
+Let try to understand what this means. The $$-\frac{1}{\cos\alpha-1}$$ is just a scalar quantity it depends on the choice of curve $\gamma$ and chart. What about the term $$\frac{\partial}{\partial\chi_{\text{l}}}$$
+This term just depends on the chart we choose. Let us try to understand what this equation is telling us.
+
+
