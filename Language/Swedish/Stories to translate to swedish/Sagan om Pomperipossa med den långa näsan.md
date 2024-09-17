@@ -10,25 +10,34 @@ Men **ingen** **enda** **människa** **vågade** sig till henne och **knappt** n
 
 But not a single person dared to approach her and barely any trolls either, as she was so terribly mean. If someone came to her, she instantly enchanted him to a table or a cauldron or a griffel or anything else. She was a very dangerous witch. Her biggest sorrow was that her nose became longer and longer every time she enchanted someone. That was her punishment.
 
-Så var där också en kung i det landet, där Pomperipossa bodde, och han hade en liten prins, som hette Pipi, och en liten prinsessa, som hette Fifi. De gingo en vacker dag och promenerade i parken, ledsagade av en hovmarskalk, som var så fin, att han endast kunde svara »A!» eller »Ha!» till allt, som man sade till honom.
+Så var där också en kung i det landet, där Pomperipossa bodde, och han hade en liten prins, som hette Pipi, och en liten prinsessa, som hette Fifi. De **gingo en vacker** dag och promenerade i parken, **ledsagade** av en **hovmarskalk**, som var så fin, att han endast kunde svara »A!» eller »Ha!» till allt, som man **sade** till honom.
 
-So there was also a king in the country, where Pomperipossa lived and he had a little prince called Pipi and a litter princess called Fifi. They 
+So there was also a king in the country, where Pomperipossa lived and he had a little prince called Pipi and a litter princess called Fifi. They went one fine day and walked in the park followed by a marshel that was so fine because he only could responds A! or Ha! to everything, that was told to him.
 
 — Jag vill gå ut i skogen! sade prins Pipi.
+I will go you in the forest said prince Pipi
 
 — A! sade hovmarskalken och följde med dem.
+Ahh said the court marshel and followed them.
 
-Efter en stund kommo de till ett träsk, och hovmarskalken blev våt om fötterna, för han hade sidenskor på sig.
+Efter en stund **kommo** de till ett **träsk**, och hovmarskalken blev våt om fötterna, för han hade **sidenskor** på sig.
 
-— Ha! sade han och vände genast om för att taga på sig ett par kragstövlar.
+After a while they reached a svamp and the marshel foot became vet because he was wearing dress shoes.
+
+— Ha! sade han och **vände** **genast** om för att **taga** på sig ett **par** **kragstövlar**.
+Ha! he said and turned immediately to take a couple of boots.
 
 Men innan han gick, lade han fingret på näsan och sade:
+but before he went he laid his fingers on the nose and said.
 
 — Ba!
+Ba!
 
 Det skulle betyda:
+It would mean
 
 Vänta här, prins Pipi och prinsessan Fifi, tills jag kommer tillbaka med mina stora kragstövlar på mig!
+Wait here prince Pipi and princess Fifi till I come back with my big boots on me.
 
 Men det förstodo icke kungabarnen, utan de gingo vidare i skogen.
 
