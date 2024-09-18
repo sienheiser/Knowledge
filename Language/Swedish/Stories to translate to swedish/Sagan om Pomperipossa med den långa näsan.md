@@ -4,49 +4,73 @@ Once upon a time many many thousands of years ago, there was a horrible old spoo
 
 Men det hade Pomperipossa råd till, för hon var **rysligt** **rik**. Hon bodde ensam i ett litet hus i skogen, och det huset var byggt **utav** korv och skinkor, och i stället för **tegelstenar** var där stora stycken **sirapsknäck**. Så **rik** var Pomperipossa.
 
-But it was something Pomperipossa bared with because she was terrible rich. She lived alone in a little house in the woods and the house was built out of sausages and ham, and instead of bricks there were big pieces of hard candy. That is how rich Pomperipossa was.
+But it was something Pomperipossa bared with because she was terribly rich. She lived alone in a little house in the woods and the house was built out of sausages and ham, and instead of bricks there were big pieces of hard candy. That is how rich Pomperipossa was.
 
-Men ingen enda människa vågade sig till henne och knappt något troll heller, ty hon var så förskräckligt elak. Om det kom någon till henne, förtrollade hon honom ögonblickligen till ett bord eller en kittel eller en griffel eller någonting annat. Hon var en mycket farlig trollpacka. Hennes största sorg var den, att hennes näsa blev längre och längre för varje gång hon förtrollade någon. Det var hennes straff!
+Men **ingen** **enda** **människa** **vågade** sig till henne och **knappt** något **troll** **heller**, **ty** hon var så **förskräckligt** **elak**. Om det kom någon till henne, **förtrollade** hon honom **ögonblickligen** till ett bord eller en kittel eller en griffel eller någonting annat. Hon var en mycket **farlig** **trollpacka**. Hennes största **sorg** var den, att hennes näsa blev längre och längre för varje gång hon **förtrollade** någon. Det var hennes **straff**!
 
-Så var där också en kung i det landet, där Pomperipossa bodde, och han hade en liten prins, som hette Pipi, och en liten prinsessa, som hette Fifi. De gingo en vacker dag och promenerade i parken, ledsagade av en hovmarskalk, som var så fin, att han endast kunde svara »A!» eller »Ha!» till allt, som man sade till honom.
+But not a single person dared to approach her and barely any trolls either, as she was so terribly mean. If someone came to her, she instantly enchanted him to a table or a cauldron or a griffel or anything else. She was a very dangerous witch. Her biggest sorrow was that her nose became longer and longer every time she enchanted someone. That was her punishment.
+
+Så var där också en kung i det landet, där Pomperipossa bodde, och han hade en liten prins, som hette Pipi, och en liten prinsessa, som hette Fifi. De **gingo en vacker** dag och promenerade i parken, **ledsagade** av en **hovmarskalk**, som var så fin, att han endast kunde svara »A!» eller »Ha!» till allt, som man **sade** till honom.
+
+So there was also a king in the country, where Pomperipossa lived and he had a little prince called Pipi and a litter princess called Fifi. They went one fine day and walked in the park followed by a marshel that was so fine because he only could responds A! or Ha! to everything, that was told to him.
 
 — Jag vill gå ut i skogen! sade prins Pipi.
+I will go you in the forest said prince Pipi
 
 — A! sade hovmarskalken och följde med dem.
+Ahh said the court marshel and followed them.
 
-Efter en stund kommo de till ett träsk, och hovmarskalken blev våt om fötterna, för han hade sidenskor på sig.
+Efter en stund **kommo** de till ett **träsk**, och hovmarskalken blev våt om fötterna, för han hade **sidenskor** på sig.
 
-— Ha! sade han och vände genast om för att taga på sig ett par kragstövlar.
+After a while they reached a svamp and the marshel foot became vet because he was wearing dress shoes.
+
+— Ha! sade han och **vände** **genast** om för att **taga** på sig ett **par** **kragstövlar**.
+Ha! he said and turned immediately to take a couple of boots.
 
 Men innan han gick, lade han fingret på näsan och sade:
+but before he went he laid his fingers on the nose and said.
 
 — Ba!
+Ba!
 
 Det skulle betyda:
+It would mean
 
 Vänta här, prins Pipi och prinsessan Fifi, tills jag kommer tillbaka med mina stora kragstövlar på mig!
+Wait here prince Pipi and princess Fifi till I come back with my big boots on me.
 
 Men det förstodo icke kungabarnen, utan de gingo vidare i skogen.
+But the kings children did not understand that, they went on in the forest.
 
 Det var just samma skog, i vilken Pomperipossa bodde. Alla fåglar började genast kvittra:
+It was precisely the same forest in which Pomperipossa lived. All the birds immediately chirped
 
 — Gå inte dit! Men prins Pipi förstod inte fåglalåt utan sade till sin syster:
+Do not go there! But prince Pipi did not understand bird song but said to his sister
 
 — Om vi skulle ge oss ut på äventyr? Det är så tråkigt hemma. Jag har visst sex öre. Hur mycket har du, prinsessa?
+Should we go for an adventure? It is so boring at home. Jag have only six cents. How much do you have princess?
 
 — Jag har bara ett enda öre, svarade Fifi, men jag kan steka äpplen.
+I only have one cent replied Fifi, but I can fry apples.
 
 — Då kan du ju nästan laga mat. Du får bli min hushållerska, sade prins Pipi.
+Then you can almost cook food. Du get to become my house keeper, said prince Pipi.
 
 Och så vandrade de ut på äventyr i den mörka skogen, ända tills de kommo till Pomperipossas lilla hus, som var byggt av korv och skinkor och sirapsknäck.
+And so they wandered out on their adventure in the dark forest, until they came to Poperipossa's little house that was built of sausages and ham and hard candy.
 
 — Låt oss äta kvällsmat! sade prins Pipi, som kände sig hungrig, och bröt en stor korv ur huset.
+Let us eat dinner said prince Pipi  who felt hungry and broke a big sausage out of the house.
 
 Då stack Pomperipossa ut sin långa näsa genom fönstret och såg på dem.
+Then Pomperipossa stuck out her long nose through the window and looked at them.
 
 — Kom hit in! sade hon genast. Jag är er snälla gudmor. Ni skall få syltpannkaka av mig.
+Come in here! she said immediately. I am your kind godmother. You shall have jag pancakes from me. 
 
 Prins Pipi och lilla Fifi trodde henne och gingo in, fastän de voro fasligt rädda.
+Prince Pipi and little Fifi believed her and went in, although they were really scared.
 
 — Hm! sade Pomperipossa och såg på dem. Jag har inte ätit gåsstek på bra länge...
 
