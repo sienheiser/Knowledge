@@ -40,26 +40,37 @@ Vänta här, prins Pipi och prinsessan Fifi, tills jag kommer tillbaka med mina 
 Wait here prince Pipi and princess Fifi till I come back with my big boots on me.
 
 Men det förstodo icke kungabarnen, utan de gingo vidare i skogen.
+But the kings children did not understand that, they went on in the forest.
 
 Det var just samma skog, i vilken Pomperipossa bodde. Alla fåglar började genast kvittra:
+It was precisely the same forest in which Pomperipossa lived. All the birds immediately chirped
 
 — Gå inte dit! Men prins Pipi förstod inte fåglalåt utan sade till sin syster:
+Do not go there! But prince Pipi did not understand bird song but said to his sister
 
 — Om vi skulle ge oss ut på äventyr? Det är så tråkigt hemma. Jag har visst sex öre. Hur mycket har du, prinsessa?
+Should we go for an adventure? It is so boring at home. Jag have only six cents. How much do you have princess?
 
 — Jag har bara ett enda öre, svarade Fifi, men jag kan steka äpplen.
+I only have one cent replied Fifi, but I can fry apples.
 
 — Då kan du ju nästan laga mat. Du får bli min hushållerska, sade prins Pipi.
+Then you can almost cook food. Du get to become my house keeper, said prince Pipi.
 
 Och så vandrade de ut på äventyr i den mörka skogen, ända tills de kommo till Pomperipossas lilla hus, som var byggt av korv och skinkor och sirapsknäck.
+And so they wandered out on their adventure in the dark forest, until they came to Poperipossa's little house that was built of sausages and ham and hard candy.
 
 — Låt oss äta kvällsmat! sade prins Pipi, som kände sig hungrig, och bröt en stor korv ur huset.
+Let us eat dinner said prince Pipi  who felt hungry and broke a big sausage out of the house.
 
 Då stack Pomperipossa ut sin långa näsa genom fönstret och såg på dem.
+Then Pomperipossa stuck out her long nose through the window and looked at them.
 
 — Kom hit in! sade hon genast. Jag är er snälla gudmor. Ni skall få syltpannkaka av mig.
+Come in here! she said immediately. I am your kind godmother. You shall have jag pancakes from me. 
 
 Prins Pipi och lilla Fifi trodde henne och gingo in, fastän de voro fasligt rädda.
+Prince Pipi and little Fifi believed her and went in, although they were really scared.
 
 — Hm! sade Pomperipossa och såg på dem. Jag har inte ätit gåsstek på bra länge...
 
