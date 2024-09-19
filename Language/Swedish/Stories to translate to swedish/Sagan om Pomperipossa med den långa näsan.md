@@ -73,18 +73,25 @@ Prins Pipi och lilla Fifi trodde henne och gingo in, fastän de voro fasligt rä
 Prince Pipi and little Fifi believed her and went in, although they were really scared.
 
 — Hm! sade Pomperipossa och såg på dem. Jag har inte ätit gåsstek på bra länge...
+Hmm! said Pomperipossa och looked at them. I have not eaten roast goose for a while..
 
-Och så trollade hon i luften, och strax blevo prins Pipi och prinsessan Fifi till två små gäss, som betraktade varandra mycket förskräckta.
+Och så trollade hon i luften, och strax blevo prins Pipi och prinsessan Fifi till två små gäss, som **betraktade** varandra mycket **förskräckta**.
+And so she enchanted the air och immediately Prince Pipi and Princess Fifi became two little geese, who looked at each other very horrified.
 
 — Hovmarskalk! ville prins Pipi skrika i sin ångest. Men det lät bara som:
+Marshal! wanted prince Pipi to scream in his anguish. But it sounded just like
 
 — Kakaka. Han kunde inte tala längre, bara kackla.
+Kakakaka. He could not speak any longer, only cluck.
 
 — Aj! skrek Pomperipossa och tog sig åt näsan.
+Ahhh! screamed Pomperipossa and touched her nose
 
 Den hade blivit en aln till så lång med detsamma, som hon förtrollade Pipi och Fifi till gäss.
+It had become a cubit longer at the same time as she enchanted Pipi and Fifi to geese.
 
 — Det var rätt åt henne! skreko alla fåglarna i skogen.
+It was right for her! Screamed all the birds in the forest
 
 — Vänta ni! ropade Pomperipossa och knöt näven åt dem. Jag skall skicka min trollkatt på er.
 
