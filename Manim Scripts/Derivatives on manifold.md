@@ -24,7 +24,9 @@ In this video we are going to talk about defining velocity vectors of a curve on
 
 Let us bring in our coordinate system with a plot and place a point on the plot. Now we can define an arrow from the origin of the coordinate to that point with components (1,0). If we move the point along the curve we get the following behaviour. Let us move back to the initial position. 
 
-The curve has the following parametrization. If we take the derivative of this parametrization we get (2x,1). This is how our velocity vector behaves as we move across the curve. We can bring in the velocity vector at the point and move then see how it changes as we move across the curve.
+The curve has the following parametrization. If we take the derivative of this parametrization we get (1,2x) which is the components of our velocity vector. We can bring in our velocity vector and move along the curve.
+
+We want to define the same behaviour on a manifold.
 
 ## Equations
 
