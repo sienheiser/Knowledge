@@ -28,6 +28,15 @@ The curve has the following parametrization. If we take the derivative of this p
 
 We want to define the same behaviour on a manifold.
 
+## Velocity Vectors on a Manifold
+### Arbitrary manifold
+Let us place an arbitrary manifold. On this manifold we have some smooth curve $\gamma$ which can be viewed as a function from the $\mathbb{R}$ to $M$. We can try taking the derivative of this function. The derivative has the following definition so let us pick two points on the curve. We have a problem: on an arbitrary manifold there is no notion of addition between two points so we cannot do this.
+
+### Defining C_infty
+Mathematicians use a trick. They make a set called $C^{\infty}(M)$ whose elements are functions  that map from $M$ to $\mathbb{R}$ and are smooth.
+
+### Going from gamma to f of gamma
+So let's place $\gamma:\mathbb{R}\rightarrow M$ on the left side and pick some arbitrary smooth function $f:M\rightarrow \mathbb{R}$ on the right side. If we start with a real line on the left side $\gamma$ will take this line and map it to the following curve on the manifold. Then the arbitrary function $f$ will take the curve and map it to a real line. We get the following function $f\circ \gamma$
 ## Equations
 
 
