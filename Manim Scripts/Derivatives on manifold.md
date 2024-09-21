@@ -36,7 +36,12 @@ Let us place an arbitrary manifold. On this manifold we have some smooth curve $
 Mathematicians use a trick. They make a set called $C^{\infty}(M)$ whose elements are functions  that map from $M$ to $\mathbb{R}$ and are smooth.
 
 ### Going from gamma to f of gamma
-So let's place $\gamma:\mathbb{R}\rightarrow M$ on the left side and pick some arbitrary smooth function $f:M\rightarrow \mathbb{R}$ on the right side. If we start with a real line on the left side $\gamma$ will take this line and map it to the following curve on the manifold. Then the arbitrary function $f$ will take the curve and map it to a real line. We get the following function $f\circ \gamma$
+So let's place $\gamma:\mathbb{R}\rightarrow M$ on the left side and pick some arbitrary smooth function $f:M\rightarrow \mathbb{R}$ on the right side. If we start with a real line on the left side $\gamma$ will take this line and map it to the following curve on the manifold. Then the arbitrary function $f$ will take the curve and map it to a real line. We get the following function $f\circ \gamma$ which we can take the derivative of because addition is defined on real numbers. 
+
+So there we have it, we have defined derivatives on a manifold which means we can construct velocity vectors of a curve on a manifold. Now you might thinking this does not mean anything because $f$ is arbitrary and you would be right, to make sense of this definition we need to use charts. Before we go there I would like go off on a tangent about tangent spaces.
+
+### Tangent space
+We define a tangent space at a point $p$ on the manifold as the following set. Where $\nu_{\gamma,p}$ is the tangent vector of $\gamma$ at $p$. Let us pick a point $p$ on the manifold and draw different curves through $p$. We can then draw the tangent vector for $p$ for each of these curves. All of those tangent vectors belong to the set $T_pM$. The tangent vector $\nu_{\gamma,p}$(f) is defined by its action on an arbitrary smooth function $f$ as equal to the derivative of $
 ## Equations
 
 
