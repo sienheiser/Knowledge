@@ -43,7 +43,11 @@ So there we have it, we have defined derivatives on a manifold which means we ca
 ### Tangent space
 We define a tangent space at a point $p$ on the manifold as the following set. Where $\nu_{\gamma,p}$ is the tangent vector of $\gamma$ at $p$. Let us pick a point $p$ on the manifold and draw different curves through $p$. We can then draw the tangent vector at $p$ for each of these curves. All of those tangent vectors belong to the set $T_pM$. The tangent vector $\nu_{\gamma,p}$(f) is defined by its action on an arbitrary smooth function $f$ as equal to the derivative of  $f \circ \gamma$  at some $\lambda_0$ where $\gamma(\lambda_0)=p$.
 ## Equations
-We start by applying $x^{-1}\circ x$  to the derivative in the following manner. We can do this because $x^{-1}\circ x$ is always one. Then we group up the function like this because function composition is associative. Then we apply the derivative with the chain rule which gives us the following. We are using Einstein summation notation here.  
+We start by applying $x^{-1}\circ x$  to the derivative in the following manner. We can do this because $x^{-1}\circ x$ is always equal to one. Then we make the following groupings because function composition is associative. After that we apply the derivative with the chain rule which gives us the following, here we are using Einstein summation notation. Next we just change the position of the two terms. Finally we make the following definition. The only change is on the right term. All this is saying is that the right term in the last line is defined to be the right term in the second last line.
+
+Since $f$ is arbitrary we can replace it by an underscore. So given a chart $x$ the following is true for any arbitrary smooth function $f$.
+
+
 ## Circle example
 ### Introduce circle
 Let's look at the example of a circle. If we recollect, a circle is just a set of tuples. If I go around the circle we see the different values these tuples have. Before we compute the velocity vectors on this circle we need derive charts. In my previous video on manifolds I used the circle as an example and made four charts, in this video I would like to derive another set of charts.
