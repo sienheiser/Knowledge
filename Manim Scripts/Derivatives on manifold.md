@@ -41,10 +41,9 @@ So let's place $\gamma:\mathbb{R}\rightarrow M$ on the left side and pick some a
 So there we have it, we have defined derivatives on a manifold which means we can construct velocity vectors of a curve on a manifold. Now you might thinking this does not mean anything because $f$ is arbitrary and you would be right, to make sense of this definition we need to use charts. Before we go there I would like go off on a tangent about tangent spaces.
 
 ### Tangent space
-We define a tangent space at a point $p$ on the manifold as the following set. Where $\nu_{\gamma,p}$ is the tangent vector of $\gamma$ at $p$. Let us pick a point $p$ on the manifold and draw different curves through $p$. We can then draw the tangent vector for $p$ for each of these curves. All of those tangent vectors belong to the set $T_pM$. The tangent vector $\nu_{\gamma,p}$(f) is defined by its action on an arbitrary smooth function $f$ as equal to the derivative of $
+We define a tangent space at a point $p$ on the manifold as the following set. Where $\nu_{\gamma,p}$ is the tangent vector of $\gamma$ at $p$. Let us pick a point $p$ on the manifold and draw different curves through $p$. We can then draw the tangent vector at $p$ for each of these curves. All of those tangent vectors belong to the set $T_pM$. The tangent vector $\nu_{\gamma,p}$(f) is defined by its action on an arbitrary smooth function $f$ as equal to the derivative of  $f \circ \gamma$  at some $\lambda_0$ where $\gamma(\lambda_0)=p$.
 ## Equations
-
-
+We start by applying $x^{-1}\circ x$  to the derivative in the following manner. We can do this because $x^{-1}\circ x$ is always one. Then we group up the function like this because function composition is associative. Then we apply the derivative with the chain rule which gives us the following. We are using Einstein summation notation here.  
 ## Circle example
 ### Introduce circle
 Let's look at the example of a circle. If we recollect, a circle is just a set of tuples. If I go around the circle we see the different values these tuples have. Before we compute the velocity vectors on this circle we need derive charts. In my previous video on manifolds I used the circle as an example and made four charts, in this video I would like to derive another set of charts.
