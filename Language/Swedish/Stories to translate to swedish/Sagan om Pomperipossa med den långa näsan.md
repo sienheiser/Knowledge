@@ -93,19 +93,26 @@ It had become a cubit longer at the same time as she enchanted Pipi and Fifi to 
 — Det var rätt åt henne! skreko alla fåglarna i skogen.
 It was right for her! Screamed all the birds in the forest
 
-— Vänta ni! ropade Pomperipossa och knöt näven åt dem. Jag skall skicka min trollkatt på er.
+— Vänta ni! ropade Pomperipossa och **knöt** **näven** åt dem. Jag **skall** skicka min trollkatt på er.
+You wait! cried Pomperpossa and clenched  fist at them.  I will send my magic cat at you.
 
-— Vi ska skaffa hjälp, sjöngo alla fåglarna och flög sin väg för att be storken komma dit och ge ett gott råd.
+— Vi ska **skaffa** hjälp, sjöngo alla fåglarna och flög sin väg för att be **storken** komma dit och ge ett gott **råd**.
+We will get help sang all the birds and flew their way to ask the stork to come there and give good adive.
 
 Storken är den visaste av alla fåglar, ty han reser varje vinter till Egypten och studerar hieroglyfer på pyramiderna.
+The stock is the wisest of all birds because he travels every winter to Egypt and study the hieroglyphs on the pyramids.
 
-— Nu ska ni få simma, mina små gäss! sade Pomperipossa och drev Pipi och Fifi framför sig med sin stora käpp. Det gör er så gott, och så smakar ni bättre, när jag steker er i kväll.
+— Nu ska ni få **simma**, mina små gäss! sade Pomperipossa och **drev** Pipi och Fifi **framför** sig med sin stora **käpp**. Det gör er så gott, och så smakar ni bättre, när jag steker er i kväll.
+Now will you swim, my small geese! said Pomperipossa and driving Pipi and Fifi forward with her big walking stick. It makes you so good and so you taste better, when I fry you tonight.
 
-Och så körde hon den stackars prinsen och prinsessan ned till sjön.
+Och så körde hon den **stackars** prinsen och prinsessan ned till sjön.
+And so she drove the poor prince and princess down to the lake.
 
-— Kakaka! jämrade de sig, men de måste ändå ut i det kalla vattnet.
+— Kakaka! **jämrade** de sig, men de måste ändå ut i det kalla vattnet.
+Kakakak! they weiled, but they still have to get out into the cold water.
 
-— Säger ni kakaka? frågade Pomperipossa. Ni menar kanske syltpannkaka? hånade hon dem.
+— Säger ni kakaka? frågade Pomperipossa. Ni menar kanske syltpannkaka? **hånade** hon dem.
+You say kakakakaka? asked Pomperipossa. You maybe mean jam pancakes? She mocked them.
 
 De förtrollade gässen måste äta små svarta grodungar och vått gräs — det var annat det än syltpannkaka!
 
