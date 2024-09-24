@@ -115,12 +115,17 @@ Kakakak! they weiled, but they still have to get out into the cold water.
 You say kakakakaka? asked Pomperipossa. You maybe mean jam pancakes? She mocked them.
 
 De förtrollade gässen måste äta små svarta grodungar och vått gräs — det var annat det än syltpannkaka!
+The enchanted geese must eat small black frogs and wet grass. It was anything but jam pancakes.
 
-Pomperipossa stod på stranden och stödde sig på sin långa näsa, som nu var lika lång som hennes ben. I detsamma hörde hon ett prassel bakom sig i skogen och vände sig om. Det var hovmarskalken, som hade varit hemma efter sina kragstövlar och sedan dess oroligt letat efter de försvunna kungabarnen.
+Pomperipossa stod på stranden och **stödde** sig på sin långa näsa, som nu var lika lång som hennes ben. I detsamma hörde hon ett prassel bakom sig i skogen och vände sig om. Det var hovmarskalken, som hade varit hemma efter sina kragstövlar och sedan dess **oroligt** **letat** efter de **försvunna** kungabarnen.
+
+Pomperipossa was standing on the beach **leaning** on her long nose, which was now as long as her leg. At the same time she heard a rustle behind her in the forest and turned around. It was the court marshal, who had been home for his collared boots and since then **anxious** **searched** for the **missing** gang children.
 
 — Ha! sade hovmarskalken, då han fick se trollpackan. — Pa! sade han och drog sitt långa svärd för att hugga näsan av henne.
+Ha! said the marshal, when he saw the magic pack. Pa! he said and drew his long sword to chop off her nose.
 
-Men Pomperipossa förtrollade honom genast till en gammal kråka, som ängsligt hoppade omkring på stranden och sade:
+Men Pomperipossa förtrollade honom genast till en gammal **kråka**, som **ängsligt** hoppade omkring på stranden och sade:
+But pomperipossa enchanted him immediately into an old that anxiously jumped around on the beach and said caw caw!
 
 — Kra, kra!
 
