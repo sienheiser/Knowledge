@@ -1,7 +1,7 @@
 ## Velocity Vectors in Euclidean space
 In this video we are going to talk about defining velocity vectors of a curve on a manifold. Let us start by looking at how we define velocity vectors of a curve in calculus.
 
-Let us bring in our coordinate system with a plot and place a point on the plot. Now we can define an arrow from the origin of the coordinate to that point with components (1,0). If we move the point along the curve we get the following behaviour. Let us move back to the initial position. 
+Let us bring in our coordinate system with a plot and place a point on the plot. Now we can define an arrow from the origin of the coordinate system to that point with components (1,1). If we move the point along the curve we get the following behaviour. Let us move back to the initial position. 
 
 The curve has the following parametrization. If we take the derivative of this parametrization we get (1,2x) which is the components of our velocity vector. We can bring in our velocity vector and move along the curve.
 
