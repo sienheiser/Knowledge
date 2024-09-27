@@ -27,11 +27,11 @@ If we then take an arbitrary chart and compute the components of the velocity ve
 ## Equations
 From now onwards I will write derivatives in the following notation.
 
-To get the components of a velocity vector we start by applying arbitrary chart $x^{-1}\circ x$  to the derivative in the following manner. We can do this because $x^{-1}\circ x$ is always equal to one. Then we make the following groupings because function composition is associative. After that we apply the derivative with the chain rule which gives us the following, here we are using Einstein summation notation. Next we just change the position of the two terms. Finally we make the following definition. The only change is on the right term. All this is saying is that the right term in the last line is defined to be the right term in the second last line.
+To get the components of a velocity vector we pick an arbitrary chart $x$  and insert it into the derivative. We can do this because $x^{-1}\circ x$ is always equal to one. Then we make the following groupings because function composition is associative. After that we apply the derivative with the chain rule which gives us the following, here we are using Einstein summation notation. Next we just change the position of the two terms. Finally we make the following definition. The only change is on the right term. All this is saying is that the right term in the last line is defined to be the right term in the second last line.
 
 Since $f$ is arbitrary we can replace it by an underscore. So given a chart $x$ the following is true for any arbitrary smooth function $f$.
 
-At this point we have defined how to take derivatives of a curve on a manifold and can this derivative using arbitrary charts. Let us make this concrete by studying an example.
+At this point we have defined how to take derivatives of a curve on a manifold and can use this equation to get the components of our velocity vectors. Let us make this concrete by studying an example.
 ## Circle example
 ### Introduce circle
 Let's look at the example of a circle. If we recollect, a circle is just a set of tuples. If I go around the circle we see the different values these tuples have. Before we compute the velocity vectors on this circle we need derive charts. In my previous video on manifolds I used the circle as an example and made four charts, in this video I would like to derive another set of charts.
