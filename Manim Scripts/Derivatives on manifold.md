@@ -9,7 +9,7 @@ We want to define the same behaviour on a manifold.
 
 ## Velocity Vectors on a Manifold
 ### Arbitrary manifold
-Let us place an arbitrary manifold. On this manifold we have some smooth curve $\gamma$ which can be viewed as a function from the $\mathbb{R}$ to $M$. We can try taking the derivative of this function. The derivative has the following definition so let us pick two points on the curve. We have a problem: on an arbitrary manifold there is no notion of addition between two points so we cannot do this.
+Let us place an arbitrary manifold. On this manifold we have some smooth curve $\gamma$ which can be viewed as a function from  $\mathbb{R}$ to $M$. We can try taking the derivative of this function. The derivative has the following definition so let us pick two points on the curve. We have a problem: on an arbitrary manifold there is no notion of addition between two points so we cannot do this.
 
 ### Defining C_infty
 Mathematicians use a trick. They make a set called $C^{\infty}(M)$ whose elements are functions  that map from $M$ to $\mathbb{R}$ and are smooth.
@@ -21,10 +21,13 @@ So there we have it, we have defined derivatives on a manifold which means we ca
 
 ### Tangent space
 We define a tangent space at a point $p$ on the manifold as the following set. Where $\nu_{\gamma,p}$ is the tangent vector of $\gamma$ at $p$. Let us pick a point $p$ on the manifold and draw different curves through $p$. We can then draw the tangent vector at $p$ for each of these curves. All of those tangent vectors belong to the set $T_pM$. The tangent vector $\nu_{\gamma,p}$(f) is defined by its action on an arbitrary smooth function $f$ as equal to the derivative of  $f \circ \gamma$  at some $\lambda_0$ where $\gamma(\lambda_0)=p$.
+
+## Manifold chart
+If we then take an arbitrary chart and compute the components of the velocity vector.
 ## Equations
 From now onwards I will write derivatives in the following notation.
 
-We start by applying $x^{-1}\circ x$  to the derivative in the following manner. We can do this because $x^{-1}\circ x$ is always equal to one. Then we make the following groupings because function composition is associative. After that we apply the derivative with the chain rule which gives us the following, here we are using Einstein summation notation. Next we just change the position of the two terms. Finally we make the following definition. The only change is on the right term. All this is saying is that the right term in the last line is defined to be the right term in the second last line.
+To get the components of a velocity vector we start by applying arbitrary chart $x^{-1}\circ x$  to the derivative in the following manner. We can do this because $x^{-1}\circ x$ is always equal to one. Then we make the following groupings because function composition is associative. After that we apply the derivative with the chain rule which gives us the following, here we are using Einstein summation notation. Next we just change the position of the two terms. Finally we make the following definition. The only change is on the right term. All this is saying is that the right term in the last line is defined to be the right term in the second last line.
 
 Since $f$ is arbitrary we can replace it by an underscore. So given a chart $x$ the following is true for any arbitrary smooth function $f$.
 
