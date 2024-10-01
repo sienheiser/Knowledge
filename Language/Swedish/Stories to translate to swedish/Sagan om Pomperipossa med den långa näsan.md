@@ -131,19 +131,27 @@ But pomperipossa enchanted him immediately into an old that anxiously jumped aro
 — Ja, kraxa och kackla ni! **skrattade** Pomperipossa **belåtet**. Det är ingenting, som kan **befria** er från **förtrollningen**, om ni inte får höra det **allra** **förfärligaste** skrik i världen, man kan tänka sig. För då får allt, som jag har förtrollat, sin riktiga **gestalt** igen, och så blir jag själv till en sten. Men det ska vi hoppas inte sker på ett par millioner år ännu... sade Pomperipossa och snusade upp två skålpund snus.
 Yes, you crackle and cackle! Pomperipossa laughed satisfied. There is nothing one can do to break free from the enchantment unless you have not heard the most terrible scream in the world that can you can think of.
 
-— Det vore rätt åt dig, skreko alla de små fåglarna, som kommit tillbaka med den visa storken.
+— Det **vore** rätt åt dig, skreko alla de små fåglarna, som kommit tillbaka med den visa storken.
+It would be right for you screamed all the small birds who came back with the wise stork
 
-— Ni retar mig, så jag blir varm om näsan, fräste Pomperipossa och stack näsan ner i sjön för att svalka den.
+— Ni **retar** mig, så jag blir varm om näsan, **fräste** Pomperipossa och **stack** näsan ner i sjön för att **svalka** den.
+You tease me, so my nose gets hot,  snarled Pomperipossa and stuck her nose down in the lake to cool it.
 
 Men se, det skulle hon aldrig ha gjort.
+But see, she would have never done that.
 
-För nere i sjön var det en stor kräfta, som inte hade fått middag på tre dagar. Och den kräftan knep sig fast med sina klor i Pomperipossas långa nos. Och Pomperipossa skrek så förskräckligt, att hon blev alldeles blå som ett plommon i hela ansiktet. Men kräftan släppte ändå icke sitt tag.
+För nere i sjön var det en stor **kräfta**, som inte hade **fått** middag på tre dagar. Och den kräftan **knep** sig fast med sina **klor** i Pomperipossas långa nos. Och Pomperipossa skrek så **förskräckligt**, att hon blev alldeles blå som ett **plommon** i hela **ansiktet**. Men kräftan **släppte** ändå **icke** sitt **tag**.
+
+Becuase down in the was a big lobster who had not got lunch for three days. And this lobster clawed at Pomperipossa's long nose. And Pomperpossa screamed so frightfully that she became quite blue like a plump in the whole face. But the lobster did not release its grip.
 
 Då skrek trollpackan ändå värre, så att det hördes ända långt ner i Afrika.
+Then the troll pack screamed even worse, so that it was heard all the way down in Africa
 
 — Det var det förskräckligaste skrik i världen, man kan tänka sig! sade storken.
+It was the most frightful scream in the world, one can imagine! said the stork
 
 Och han sade sanning, ty ingen fågel kan ljuga.
+And he said the truth, because no bird can lie.
 
 Flux och krux! Då löstes med ens Pipis och Fifis förtrollning, och de små vita gässen blevo prins och prinsessa igen. Och den gamla kråkan, som skuttade omkring på stranden, blev hovmarskalk med detsamma, med ordnar och peruk och svärd och kragstövlar.
 
