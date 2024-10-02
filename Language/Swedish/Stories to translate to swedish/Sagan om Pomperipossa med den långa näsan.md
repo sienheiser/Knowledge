@@ -118,7 +118,7 @@ De förtrollade gässen måste äta små svarta grodungar och vått gräs — de
 The enchanted geese must eat small black frogs and wet grass. It was anything but jam pancakes.
 
 Pomperipossa stod på stranden och **stödde** sig på sin långa näsa, som nu var lika lång som hennes ben. I detsamma hörde hon ett prassel bakom sig i skogen och vände sig om. Det var hovmarskalken, som hade varit hemma efter sina kragstövlar och sedan dess **oroligt** **letat** efter de **försvunna** kungabarnen.
-`:`
+
 Pomperipossa was standing on the beach **leaning** on her long nose, which was now as long as her leg. At the same time she heard a rustle behind her in the forest and turned around. It was the court marshal, who had been home for his collared boots and since then **anxious** **searched** for the **missing** gang children.
 
 — Ha! sade hovmarskalken, då han fick se trollpackan. — Pa! sade han och drog sitt långa svärd för att hugga näsan av henne.
@@ -153,14 +153,25 @@ It was the most frightful scream in the world, one can imagine! said the stork
 Och han sade sanning, ty ingen fågel kan ljuga.
 And he said the truth, because no bird can lie.
 
-Flux och krux! Då löstes med ens Pipis och Fifis förtrollning, och de små vita gässen blevo prins och prinsessa igen. Och den gamla kråkan, som skuttade omkring på stranden, blev hovmarskalk med detsamma, med ordnar och peruk och svärd och kragstövlar.
+Flux och krux! **Då** **löstes** med **ens** Pipis och Fifis förtrollning, och de små vita gässen blevo prins och prinsessa igen. Och den gamla kråkan, som **skuttade omkring** på stranden, blev hovmarskalk med detsamma, med ordnar och peruk och svärd och kragstövlar.
 
-— Va? A! Bra! sade hovmarskalken och tog prins Pipi och prinsessan Fifi, en i vardera handen.
+Flux and krux! Then Pipi's and Fifi's enchantment resolved and the small white geese become prince and princess again. And the old crow that darted about on the beach became the court marshal at the same time with orders and wig and sword and boots.
 
-Och så sprang han med dem, det värsta han orkade, genom skogen tillbaka till slottet, där kungen satt och väntade på dem med ett riksris i vänstra handen och ett stort riksäpple i den högra handen. Han var mycket vredgad, för att de varit borta så länge.
+— Va? A! Bra! sade hovmarskalken och tog prins Pipi och prinsessan Fifi, en i **vardera** handen.
 
-— Na! sade hovmarskalken lugnande.
+What? Ah! good! said the court marshal and took prince Pipi and princess Fifi, one in each hand.
 
-Och kungen förstod genast, att hovmarskalken menade, att de varit förtrollade av Pomperipossa, och att de inte kunde hjälpa det. Då blev kungen rörd, stack riksriset i kråset på hovmarskalken såsom en ovanligt fin utmärkelse, men gav prins Pipi och prinsessan Fifi hälften var av det stora riksäpplet.
+Och så sprang han med dem, det värsta han **orkade**, genom skogen tillbaka till slottet, där kungen satt och väntade på dem med ett riksris i vänstra handen och ett stort riksäpple i den högra handen. Han var mycket vredgad, för att de varit borta så länge.
 
-Men Pomperipossa förvandlades genast till en stor sten. Du kan själv se henne ännu, om du kommer till den där sjön, fastän hon nu är så övervuxen av mossa och buskar, att hon ser ut som ett litet berg. Men en gång om året, på samma dag som hon förstenades, blir hon liksom förr. Och då kniper kräftan i hennes näsa, och då skriker hon igen så förskräckligt, att det ger eko i bergen. Men vilken dag det är — ja, det vet bara jag, och jag talar inte om det, så det tjänar ingenting till, att du går ut och tittar efter, för då blir din lilla näsa lika lång som Pomperipossas — och det vill du väl ändå inte?
+and so he ran with them, the worst he could do, through the forest back to the castle where the king sat and waited for them with rise in the left hand and a big apple in the right hand. He was very wrathful because they were away for so long.
+
+— Na! sade hovmarskalken **lugnande**.
+Well! said the court marshal 
+
+Och kungen förstod genast, att hovmarskalken menade, att de varit förtrollade av Pomperipossa, och att de inte kunde hjälpa det. Då blev kungen rörd, stack riksriset i **kråset** på hovmarskalken såsom en ovanligt fin utmärkelse, men gav prins Pipi och prinsessan Fifi hälften var av det stora riksäpplet.
+
+and the king understood immediately that the court marshal meant that they become enchanted by Pomperipossa and that he could not help it. Then the kind became moved, stuck the rise in the crotch of the court marshal as an unusually fine reward, but gave prince Pipi and Princess Fifi half of the big apple.
+
+Men Pomperipossa **förvandlades** genast till en stor sten. Du kan själv se henne ännu, om du kommer till den där sjön, fastän hon nu är så övervuxen av mossa och buskar, att hon ser ut som ett litet berg. Men en gång om året, på samma dag som hon **förstenades**, blir hon liksom förr. Och då kniper kräftan i hennes näsa, och då skriker hon igen så **förskräckligt**, att det ger eko i bergen. Men vilken dag det är — ja, det vet bara jag, och jag talar inte om det, så det **tjänar** ingenting till, att du går ut och tittar efter, för då blir din lilla näsa lika lång som Pomperipossas — och det vill du väl ändå inte?
+
+But Pomperipossa förvandlades immediately into a big stone. You can still see her if you go to the lake, although now she is overgrown by moss and bush, that she looks like a little mountain. But once a year on the same day she was petrified she becomes like before. And then the lobster claws her nose and then she screams again so terrible that it echos throughout the mountains. But which day is it? that I do not know and I do not talk about it, so it serves nothing, that you go out and look after, for your little nose become long like Pomperpossa - och you do not want that, do you?
