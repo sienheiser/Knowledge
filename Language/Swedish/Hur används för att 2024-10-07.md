@@ -1,0 +1,1 @@
+Det är inte klart för mig hur jag ska använda "att". Men jag kan säga att jag vet när jag ska använda "för att".  Anta att du har skrivit en mening. Om du behöver använda "för att" eller "att" beror på meningen. Om handlingen behöver en förklaring, måste du behöva "för att" till exempel "Jag tränar för att bli starkare". 
