@@ -1,0 +1,3 @@
+[[Recension 2024-10-09 | Igår]] hittade jag detta uttryck "<adverb> cyklar jag <förklaring> till jobb". Vi användade en huvudsats för att göra uttrycken. Idag ska vi använda en bisats som börja med ett adverb och har en förklaring för ett verb in meningen. Anta vi använda detta mening "Jag cyklar till jobb" som en grund mening. Vi behöver något som uttrycker tillstånd som "när". Om jag säger "När jag cyklar för att får jobb" den är en bisats och behöver något mer som "När jag cyklar för att får till jobb, når jag där tidigt.". 
+
+Så med en bisats, har vi följande allmän uttryck "<tillstånd adverb> jag cyklar för att <förklaring> jobb, <handling> jag ...."
